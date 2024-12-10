@@ -1,0 +1,41 @@
+{
+  "Yokai": [
+    {yokaiName = "Kappa",
+     yokaiID = 1, 
+    yokaiDescription = "A duck billed yokai with a turtle shell. Known to also have a bald but hollow head. When it sees a human near freshwater areas, they are known to drag them into the water.",
+    yokaiType = "Humanoid",
+    threatLevel = "Low - Medium",
+    method = "Cucumbers are their favorite food so be sure to give them one. You may also try to make them bow as the water in their head may spill, making them lose their power.",
+    habitat = "Freshwater Areas, bridges, etc.",
+    yokaiImage="https://raw.githubusercontent.com/carlosmaniego/JSONProjectsIT315/refs/heads/master/kappa.jpg"},
+
+    {yokaiName = "Tengu",
+      yokaiID = 2, 
+    yokaiDescription = "Known as Wind Gods, the appearance of the Tengu depends on your region. Some say they look like crow people, in other regions they are wolf people. They all can fly and know a lot of martial arts.",
+    yokaiType = "Avian",
+    threatLevel = "HIGH",
+    method = "You can't, try to run or make friends with them.",
+    habitat = "Mountains",
+    yokaiImage="https://raw.githubusercontent.com/carlosmaniego/JSONProjectsIT315/refs/heads/master/tengu.jpg"},
+
+      {yokaiName = "Kitsune",
+        yokaiID = 3, 
+    yokaiDescription = "Known as the Nine-Tailed Fox in popular media. The Kitsune are trickster fox spirits known to shapeshift into any person they wish. Some interpretations show them manipulate fire.",
+    yokaiType = "Canine (Fox)",
+    threatLevel = "Medium",
+    method = "Not really subduing, make friends with them as they can remember debts.",
+    habitat = "Anywhere in Japan",
+    yokaiImage="https://raw.githubusercontent.com/carlosmaniego/JSONProjectsIT315/refs/heads/master/kitsune.jpg"},
+
+      {yokaiName = "Yatagarasu",
+        yokaiID = 4, 
+    yokaiDescription = "A three-legged crow spirit, known to be a messenger of the Goddess Amaterasu. The Yatagarasu is regarded as a symbol of guidance and victory.",
+    yokaiType = "Avian",
+    threatLevel = "Low (Non-hostile)",
+    method = "No method of subduction, it is mostly harmless.",
+    habitat = "Mountains and Shrines",
+    yokaiImage="https://raw.githubusercontent.com/carlosmaniego/JSONProjectsIT315/refs/heads/master/yatagarasu.jpg"}
+    
+  ],
+  "Status": "Ok"
+}
